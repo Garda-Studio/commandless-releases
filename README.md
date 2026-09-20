@@ -1,3 +1,5 @@
+<p align="center"><img src="https://garda-studio.com/product-icons/commandless.png" width="88" height="88" alt=""></p>
+
 # Commandless
 
 **AI-assisted server administration with controlled execution.**
