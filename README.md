@@ -1,4 +1,8 @@
-<p align="center"><img src="https://garda-studio.com/product-icons/commandless.png" width="88" height="88" alt=""></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="Commandless by Garda Studio" width="1280">
+</picture>
 
 # Commandless
 
@@ -12,9 +16,15 @@ By [Garda Studio](https://garda-studio.com).
 
 Commandless is an Electron desktop application for administering Linux servers through an AI-assisted workflow. Proposed operations are checked against the active mode and policy, with approvals and an audit trail.
 
-## Availability
+## Highlights
 
-Pre-release; not production-ready. No downloadable builds have been published in this repository yet.
+- AI-assisted Linux server administration over SSH.
+- Policy checks and approvals for proposed operations.
+- An audit trail for reviewing operations.
+
+<!-- Screenshots: add reviewed, real application captures here. Remove credentials and personal data before publishing. -->
+
+## Downloads and installation
 
 This is the public product and release hub. **Application source code is private.** Public downloads do not grant an open-source license; consult the license included with each release.
 
