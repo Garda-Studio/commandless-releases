@@ -8,10 +8,8 @@
 
 # Commandless
 
-**AI-assisted server administration with controlled execution.**
-
-By [Garda Studio](https://garda-studio.com).
-
+**AI-assisted server administration with controlled execution**
+By [Garda Studio](https://garda-studio.com)
 [Product page](https://garda-studio.com/products/commandless) · [Releases](https://github.com/Garda-Studio/commandless-releases/releases) · [Feedback](https://github.com/Garda-Studio/commandless-releases/issues) · [Support](mailto:support@garda-studio.com)
 
 ## About
